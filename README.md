@@ -27,11 +27,5 @@ testing set.
 2. Install the dependencies: `pip install -r requirements.txt`
 3. Run the Python script: `python titanic.py`
 
-## Results
-The final model's accuracy, precision, recall, and F1-score are included in the `results.txt` file.
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
